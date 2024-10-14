@@ -1,0 +1,2 @@
+//Index
+export interface IndexPageProps {}
